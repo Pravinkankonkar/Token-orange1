@@ -8,7 +8,8 @@ public class Secret_Locker_210 {
 			 this.secret_key=secret_key; 
 		   }
 		
-	         
+	    	    int things_count;
+		    
 		public static void main(String[] args) {
 			// TODO Auto-generated method stub
 
